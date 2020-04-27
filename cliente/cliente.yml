@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/aluguel_carros?useTimezone=true&serverTimezone=UTC
+    url: jdbc:mysql://localhost:3306/cliente?useTimezone=true&serverTimezone=UTC
     username: root
     password: desenv
   jpa:
